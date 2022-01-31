@@ -1,0 +1,15 @@
+C:\Users\Karina\Desktop\project\Game\bin\Debug\net6.0\Game.exe
+C:\Users\Karina\Desktop\project\Game\bin\Debug\net6.0\Game.deps.json
+C:\Users\Karina\Desktop\project\Game\bin\Debug\net6.0\Game.runtimeconfig.json
+C:\Users\Karina\Desktop\project\Game\bin\Debug\net6.0\Game.dll
+C:\Users\Karina\Desktop\project\Game\bin\Debug\net6.0\ref\Game.dll
+C:\Users\Karina\Desktop\project\Game\bin\Debug\net6.0\Game.pdb
+C:\Users\Karina\Desktop\project\Game\obj\Debug\net6.0\Game.csproj.AssemblyReference.cache
+C:\Users\Karina\Desktop\project\Game\obj\Debug\net6.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karina\Desktop\project\Game\obj\Debug\net6.0\Game.AssemblyInfoInputs.cache
+C:\Users\Karina\Desktop\project\Game\obj\Debug\net6.0\Game.AssemblyInfo.cs
+C:\Users\Karina\Desktop\project\Game\obj\Debug\net6.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\project\Game\obj\Debug\net6.0\Game.dll
+C:\Users\Karina\Desktop\project\Game\obj\Debug\net6.0\ref\Game.dll
+C:\Users\Karina\Desktop\project\Game\obj\Debug\net6.0\Game.pdb
+C:\Users\Karina\Desktop\project\Game\obj\Debug\net6.0\Game.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Karina\Desktop\project\GameArt\obj\Debug\GameArt.csproj.AssemblyReference.cache
+C:\Users\Karina\Desktop\project\GameArt\obj\Debug\GameArt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Karina\Desktop\project\GameArt\obj\Debug\MainWindow.g.cs
+C:\Users\Karina\Desktop\project\GameArt\obj\Debug\App.g.cs
+C:\Users\Karina\Desktop\project\GameArt\obj\Debug\GameArt_MarkupCompile.cache
+C:\Users\Karina\Desktop\project\GameArt\obj\Debug\GameArt_MarkupCompile.lref
+C:\Users\Karina\Desktop\project\GameArt\bin\Debug\GameArt.exe.config
+C:\Users\Karina\Desktop\project\GameArt\bin\Debug\GameArt.exe
+C:\Users\Karina\Desktop\project\GameArt\bin\Debug\GameArt.pdb
+C:\Users\Karina\Desktop\project\GameArt\obj\Debug\MainWindow.baml
+C:\Users\Karina\Desktop\project\GameArt\obj\Debug\GameArt.g.resources
+C:\Users\Karina\Desktop\project\GameArt\obj\Debug\GameArt.Properties.Resources.resources
+C:\Users\Karina\Desktop\project\GameArt\obj\Debug\GameArt.csproj.GenerateResource.cache
+C:\Users\Karina\Desktop\project\GameArt\obj\Debug\GameArt.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\project\GameArt\obj\Debug\GameArt.exe
+C:\Users\Karina\Desktop\project\GameArt\obj\Debug\GameArt.pdb
